@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leomarqueslimait-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="leomarqueslimait-jpg" /> </p>
 
-- 🔭 I'm currently working on [terraform-aws-cicd-pipeline](https://github.com/leomarqueslimait-jpg/terraform-aws-cicd-pipeline)
+- 🔭 I'm currently working on [terraform-aws-ecs-fargate](https://github.com/leomarqueslimait-jpg/terraform-aws-ecs-fargate)
 
 - 🌱 I'm currently learning **AWS Advanced Networking and CI/CD with GitHub Actions**
 
