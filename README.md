@@ -20,14 +20,14 @@
 
 ### Languages and Tools
 
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 
-![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
 
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
